@@ -80,6 +80,7 @@ function Skills() {
               <span>Git</span>
               <span>GitHub</span>
               <span>VS Code</span>
+              <span>Eclipse</span>
               <span>Postman</span>
             </div>
           </div>

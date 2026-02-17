@@ -33,13 +33,13 @@ I’m a dedicated full-stack developer who enjoys building clean and responsive 
             </p>
             <p className="muted">Srikakulam</p>
             <p>B.Tech (Integrated PUC) – CSE</p>
-            <p className="cgpa">CGPA: 9.32</p>
+            <p className="cgpa">CGPA: 9.2</p>
             <p className="muted">Aug 2019 – Apr 2025</p>
 
             <hr />
 
             <p className="card-title">ZPHS School</p>
-            <p className="muted">Jangareddygudem</p>
+            <p className="muted">Katrenipadu</p>
             <p>High School Education</p>
             <p className="cgpa">CGPA: 9.8</p>
             <p className="muted">2019 Passout</p>
