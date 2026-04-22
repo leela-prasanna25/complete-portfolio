@@ -27,3 +27,4 @@ You can download my resume directly from the portfolio website.
 - Email: leelaprasannamutyala@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/leela-prasanna-mutyala-58862924b/  
 - GitHub: https://github.com/leela-prasanna25
+- portfolio: https://leelaprasanna-portfolio.vercel.app/
