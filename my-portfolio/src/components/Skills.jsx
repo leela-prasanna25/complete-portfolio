@@ -61,6 +61,7 @@ function Skills() {
 
             <div className="chip-group">
               <span>Full Stack Development</span>
+              <span>Backend Development</span>
               <span>REST API Development</span>
               <span>Authentication (JWT)</span>
               <span>Database Design</span>
