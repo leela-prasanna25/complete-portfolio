@@ -66,7 +66,7 @@ function Contact() {
             </p>
 
             <a
-              href="/Leelaprasanna_mutyala.pdf"
+              href="/Leela prasanna_resume.pdf"
               target="_blank"
               rel="noreferrer"
               className="resume-download"
